@@ -1,0 +1,24 @@
+{
+  "name": "berkanumutlu/php-password-generator",
+  "type": "project",
+  "description": "PHP Password Generator by Berkan Ümütlü",
+  "keywords": [
+    "php",
+    "password generator"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Berkan Ümütlü",
+      "role": "Developer"
+    }
+  ],
+  "homepage": "https://github.com/berkanumutlu/php-password-generator",
+  "support": {
+    "issues": "https://github.com/berkanumutlu/php-password-generator/issues",
+    "security": "https://github.com/berkanumutlu/php-password-generator/security/policy"
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
